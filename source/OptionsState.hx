@@ -99,7 +99,7 @@ class OptionsState extends MusicBeatState
 
 				case 'Controls':
 				  #if mobile
-				  openSubState(new android.AndroidControlsMenu());
+				  MusicBeatState.switchState(new android.AndroidControlsMenu());
 				  #else
 					openSubState(new ControlsSubstate());
 					#end
