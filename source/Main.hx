@@ -32,6 +32,8 @@ class Main extends Sprite
 	public function new()
 	{
 		super();
+		
+		SUtil.gameCrashCheck();
 
 		if (stage != null)
 		{
@@ -67,7 +69,7 @@ class Main extends Sprite
 			gameHeight = Math.ceil(stageHeight / zoom);
 		}
 		
-		SUtil.doTheCheck();
+		//SUtil.doTheCheck();
 
 		#if !debug
 		initialState = TitleState;
@@ -75,8 +77,6 @@ class Main extends Sprite
 
 		Paths.getModFolders();
 		ClientPrefs.startControls();
-		
-		SUtil.gameCrashCheck();
 		
 		addChild(new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen));
 
