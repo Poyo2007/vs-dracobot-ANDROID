@@ -470,6 +470,7 @@ class Controls extends FlxActionSet
                         case FULL:
                                 //nothing
 			case NONE:
+		}
 
 	override function update()
 	{
