@@ -196,13 +196,13 @@ class WarnyScreeny extends FlxState
             FuckShit.play();
             FlxG.switchState(new TitleState());
     }
-		}
 		#else
 		if(FlxG.keys.justPressed.ENTER)
 		{
 			FuckShit.loadEmbedded(Paths.sound('cancelMenu'));
             FuckShit.play();
-            FlxG.switchState(new TitleState());
-    }
+            FlxG.switchState(new TitleState
+		}
+    #end
     }
 }
