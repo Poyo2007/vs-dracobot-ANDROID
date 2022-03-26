@@ -1,8 +1,6 @@
 package;
 
-#if desktop
 import Discord.DiscordClient;
-#end
 import flixel.text.FlxText;
 import flixel.FlxG;
 import flixel.FlxState;
@@ -141,9 +139,7 @@ class UnlockScreen extends FlxState
 		SpritesToMove.x = FlxG.width;
 		FlxTween.tween(SpritesToMove, {x: FlxG.width * 0.0808823529}, 0.166666667);
 		var achievementThing = messagesToDisplay.pop();
-		#if desktop
 		DiscordClient.changePresence(achievementStatus[achievementThing], null);
-		#end
 		ChocolateDescription.text = achievementData[achievementThing];
 		ChocolateDescription.y = (BoxSprite.y + 45) - (ChocolateDescription.height * 0.25) * (achievementData[achievementThing].split('\n')).length;
     }
@@ -187,9 +183,7 @@ class WarnyScreeny extends FlxState
     override public function update(elapsed:Float)
     {
         WarningStrip.scrollX += 0.9;
-        
-    		#if mobile
-		
+  
 		if(touch.justPressed)
 		{
 			FuckShit.loadEmbedded(Paths.sound('cancelMenu'));
