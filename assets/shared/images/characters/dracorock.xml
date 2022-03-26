@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dracorock.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="He jammin0000" x="0" y="0" width="357" height="399" frameX="0" frameY="-4" frameWidth="357" frameHeight="407"/>
+	<SubTexture name="He jammin0001" x="0" y="0" width="357" height="399" frameX="0" frameY="-4" frameWidth="357" frameHeight="407"/>
+	<SubTexture name="He jammin0002" x="357" y="0" width="357" height="402" frameX="0" frameY="-2" frameWidth="357" frameHeight="407"/>
+	<SubTexture name="He jammin0003" x="357" y="0" width="357" height="402" frameX="0" frameY="-2" frameWidth="357" frameHeight="407"/>
+	<SubTexture name="He jammin0004" x="0" y="402" width="357" height="404" frameX="0" frameY="-1" frameWidth="357" frameHeight="407"/>
+	<SubTexture name="He jammin0005" x="0" y="402" width="357" height="404" frameX="0" frameY="-1" frameWidth="357" frameHeight="407"/>
+	<SubTexture name="He jammin0006" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0007" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0008" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0009" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0010" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0011" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0012" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0013" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0014" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0015" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0016" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0017" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0018" x="357" y="402" width="357" height="407"/>
+	<SubTexture name="He jammin0019" x="357" y="402" width="357" height="407"/>
+</TextureAtlas>

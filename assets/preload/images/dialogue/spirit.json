@@ -1,0 +1,27 @@
+{
+	"position": [
+		250,
+		-85
+	],
+	"dialogue_pos": "left",
+	"scale": 6.5,
+	"image": "spirit",
+	"graphicsprites": [],
+	"animations": [
+		{
+			"idle_offsets": [
+				-3,
+				-6
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "GF0",
+			"loop_name": "GF LOOP"
+		}
+	],
+	"specialFlags": ["StaticPortrait"],
+	"antialiasing": false
+}

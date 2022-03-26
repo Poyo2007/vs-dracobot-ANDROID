@@ -1,0 +1,412 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Shit! I'm losing control..."
+		},
+		{
+			"speed": 0.32,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "blank",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "[Scanning...]"
+		},
+		{
+			"speed": 0.32,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "blank",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "[Threat Detected]"
+		},
+		{
+			"speed": 0,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "[Initiate Emergancy Clean Up]"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO NO NO! Goddamnit! Just a little more time!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "You haven't seen the last of me!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll be back..."
+		},
+		{
+			"speed": 0.11,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND YOU'RE ALL DEAD MEAT!"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "doff",
+			"text": ""
+		},
+		{
+			"speed": 0.32,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "doff",
+			"text": ""
+		},
+		{
+			"speed": 0.32,
+			"portrait": "dracobot",
+			"eventToDo": "wimdows",
+			"boxState": "normal",
+			"expression": "dstartup",
+			"text": ""
+		},
+		{
+			"speed": 0.16,
+			"portrait": "dracobot",
+			"eventToDo": "musiclive",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ugh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Dracobot!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Be-bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Girlfriend. Boyfriend. Thank you... A little bit longer and I would have to resort to..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Something more drastic..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We're glad you're okay! I am so sorry about what happened back there. It's my fault for throwing it away in the first place."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No no. It's okay. It's my fault for being nosey and naive."
+		},
+		{
+			"speed": 0,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "blank",
+			"expression": "talk",
+			"text": "*Dracobot proceeds to remove the disc from his arm*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just do me a favor..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And please keep that disc somewhere safe next time..."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Honestly, after all that, I really don't want it anymore. You can keep it if you want."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why do you say that? What do you think I should do with this?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IDK, maybe like contain him somewhere where he won't hurt anyone."
+		},
+		{
+			"speed": 0.125,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmm..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think that can work."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll talk to Isha about this."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Maybe make it so that we can communicate with him and hopefully convince him to not do this again."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Which I doubt... -_-)"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And maybe we can give him his own body just like how my creator did to me and my sister."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh sweet!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bo! bop be ba boop ba!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, you're right. Keep an eye on him just in case he goes rogue or something."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't worry. Dr. Isha will make sure of it."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll also ask her to make this body harder for it be possessed by other spirits."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Or at least make it not as painful when being possessed..."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shit hurted like hell when that happened and I don't wanna deal with that again."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beb. Bo-be-bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You wanna do one more song?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hahaha! Sure! Consider this a thank you from me."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Though, I might have to go recharge myself after all of that. What happened back there drained a lot of my energy."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Again, thank you so much for saving me. I owe you big time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won't go easy on you though!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Cuz this song's difficulty is the same across the board!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But knowing how you handled spirit, you can handle it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Be ba boop bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Go get him Boyfriend!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now show me and your girlfriend whatcha got!"
+		}
+	]
+}

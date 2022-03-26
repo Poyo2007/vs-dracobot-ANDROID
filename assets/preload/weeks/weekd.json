@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Power On", "dracobot", [233, 245, 73]],
+		["Scan", "dracobot", [233, 245, 73]],
+		["Error 404", "angyDracobot", [255, 105, 74]],
+		["Solder", "dracobot", [233, 245, 73]]
+	],
+
+	"weekCharacters": [
+		"dracobot",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "rooftops",
+
+	"storyName": "dracobot",
+	"weekBefore": "week6",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

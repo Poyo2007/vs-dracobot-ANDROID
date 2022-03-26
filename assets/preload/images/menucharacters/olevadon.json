@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Idle",
+	"image": "Menu_olevadon",
+	"position": [
+		220,
+		-110
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

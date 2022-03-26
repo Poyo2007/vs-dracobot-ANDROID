@@ -1,0 +1,53 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"camera_pos": [
+				0,
+				0
+			],
+			"name": "He jammin",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"camera_pos": [
+				0,
+				0
+			],
+			"name": "He jammin",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dracorock",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dracobot",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		245,
+		73
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.55
+}

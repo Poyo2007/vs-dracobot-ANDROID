@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright, I'm gonna go."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bye Enki."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap boop be."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What about Nacidio?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop beep skabop bap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You wanna battle him next? I think I can arrange that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about we can do it as a double date between the 4 of us?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That sounds amazing! We're we gonna go?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whatcha think on a picnic in the woods?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That sounds good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nice! Let me just get ready to fly you guys back."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think teleporting there would be better. It's getting pretty cold here anyways."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright. You guys wanna come over here again someday?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "To mostly babysit the olevadons there? Enki and his parents are gonna go vacation soon."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh sure! I did some babysitting before so it's nothing new."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sweet!"
+		}
+	]
+}

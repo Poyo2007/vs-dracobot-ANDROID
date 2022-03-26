@@ -1,0 +1,203 @@
+{
+	"dialogue": [
+		{
+			"expression": "",
+			"text": "This should be the right building. It looks pretty tall though. You ready, Boyfriend?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"eventToDo": "blackout"
+		},
+		{
+			"expression": "",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.07
+		},
+		{
+			"expression": "",
+			"text": "...",
+			"boxState": "blank",
+			"speed": 0.3,
+			"portrait": "bf"
+		},
+		{
+			"expression": "dracobot",
+			"text": "The bluetooth speakers should be connected now...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "kill"
+		},
+		{
+			"expression": "dracobot",
+			"text": "hm?..",
+			"boxState": "normal",
+			"speed": 0.095,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "dracobot",
+			"text": "Oh! Hey guys! Over here! You're just in time!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "dracobot",
+			"text": "I'm so happy you made it here! It's been 5 years since I last saw you, broski!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"text": "It's surely something that we met again in Splatoon 2 the other day.",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "dracobot",
+			"eventToDo": "kill"
+		},
+		{
+			"expression": "",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "giff",
+			"text": "So you must be Dracobot.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "dracobot",
+			"text": "Yup! And you must be Girlfriend.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "giff",
+			"text": "Yeah! It's nice to meet you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "dracobot",
+			"text": "The pleasure is all mine! BF was telling me about you earlier while we were planning to have a rap battle here.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "gf",
+			"text": "What happened to you guys 5 years ago? I don't remember seeing you there.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "dracobot",
+			"text": "Well I usually wait for him near the store so he can help me with some music stuff that I wanted to do.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "dracobot",
+			"text": "Though he never told me he was gonna drop out so after a couple of days of him not coming over to the store.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "dracobot",
+			"text": "I stopped going there. Then I had to go back to Kreads days after that happened.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "dracobot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "giff",
+			"text": "Surprised he didn't mention you during his time at high school."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"boxState": "normal",
+			"expression": "dracobot",
+			"text": "He did tell me about you though. You're quite lucky to have him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "giff",
+			"text": "Thanks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "giff",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "giff",
+			"text": "...Hey? Why is there body tape near the air vents?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"boxState": "normal",
+			"expression": "dracobot",
+			"text": "Oh. I don't know honestly. It's been there longer than I can remember."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "giff",
+			"text": "What about the pair of shoes with a note on it? Did a murder-suicide occur here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"boxState": "normal",
+			"expression": "dracobot",
+			"text": "I don't know about that either. Sorry... I'm honestly surprised it's still there though."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "giff",
+			"text": "Ah..."
+		},
+				{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"boxState": "normal",
+			"expression": "dracobot",
+			"text": "Anyways, enough stalling! Let's get started, shall we?"
+		},
+				{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "biff",
+			"text": "Ske-be!"
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				30,
+				-65
+			],
+			"camera_pos": [
+				-40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				50,
+				-68
+			],
+			"camera_pos": [
+				0,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				25,
+				-75
+			],
+			"camera_pos": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				73,
+				-53
+			],
+			"camera_pos": 
+			[
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/olevadon_assets",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "icon-olevadon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		192,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}

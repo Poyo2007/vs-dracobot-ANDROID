@@ -1,0 +1,26 @@
+{
+	"position": [
+		200,
+		65
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "dracobot",
+	"graphicsprites": ["dsad", "dracobot", "dshutter", "doff", "dstartup"],
+	"animations": [
+		{
+			"idle_offsets": [
+				-3,
+				-6
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "GF0",
+			"loop_name": "GF LOOP"
+		}
+	],
+	"specialFlags": ["StaticPortrait"]
+}

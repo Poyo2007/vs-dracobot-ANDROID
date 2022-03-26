@@ -1,0 +1,484 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Damn, you got some pretty tight bars! Great work!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.18,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Ska beep boop bo?",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Hey..! Now that you mentioned it, my copy of Hating Simulator went missing when I came to retrieve it from outside.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "All I remember is that after what happened back there, I threw the game away out of fear.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "But when I woke up and came to retrieve the game from the trash, it was no longer there.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "I woke up before the garbage man came so it couldn't be that.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Wait, you mean that game I found in the garbage was yours?",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Yeah.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "So that explains it.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Actually, I was playing some of it a bit ago while I was waiting for you guys.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "What?!",
+			"boxState": "angry",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "There was only one free slot left so I used that. It was my first time playing the game so I didn't know what I was getting into.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "I wanted to retrieve it for a reason!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "What do you mean by that? Is there something w-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "loading",
+			"text": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "kill",
+			"text": "Damn it! We're too late...",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Beep! Ska Bop!? Beeep!?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"eventToDo": "static",
+			"expression": "dshutter",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "kill",
+			"text": "Draco?...",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Bep bo?...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "...",
+			"boxState": "blank",
+			"portrait": "bf",
+			"speed": 0.175
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "Finally... It worked... A new body to control...",
+			"boxState": "normal",
+			"portrait": "spirit",
+			"speed": 0.08
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Oh... It's you two...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spirit"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Why are you worms here?",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "spirit"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "B-bep!..",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "I'm starting to regret throwing that damn game away...",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Excuse me YOU THREW ME AWAY?!",
+			"boxState": "angry",
+			"speed": 0.105,
+			"portrait": "spirit"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Me and my big mouth..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep ba bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I was gonna just leave and hunt your dad, but now that I know that you threw me away like a dead rose?!"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're no different from your father after all..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hope you're prepared because this is gonna be your last moments here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "static",
+			"boxState": "normal",
+			"expression": "dshutter",
+			"text": ""
+		},
+		{
+			"speed": 0.085,
+			"portrait": "dracobot",
+			"eventToDo": "kill",
+			"boxState": "angry",
+			"expression": "dsad",
+			"text": "Please help me... IT HURTS!.. SO MUCH!.."
+		},
+		{
+			"speed": 0.085,
+			"portrait": "dracobot",
+			"eventToDo": "static",
+			"boxState": "normal",
+			"expression": "dshutter",
+			"text": ""
+		},
+		{
+			"speed": 0.04,
+			"portrait": "spirit",
+			"eventToDo": "kill",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shut the fuck up you dollar store megaman maverick."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You look like someone pissed on Magma Dragoon."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fucking looks like Plex from Yo Gabba Gabba tried to make a fursona."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "What are you doing to Draco?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's none of your business."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm sorry but what the fuck? You didn't have to cut that deep into that guy?"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? You can speak?!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah but you made me snap out of my beeps and bops, man!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Like seriously, that guy didn't deserve all that smack. He just wanted to vibe with us."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And plus, I've beaten you the first time so what's stopping me from beating your gastly ass the second time?"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Oh you little punk!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This shit is why you get no bitches on your dick!"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh wait, you don't have one anymore."
+		},
+		{
+			"speed": 0,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!!"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.125,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You..."
+		},
+				{
+			"speed": 0.105,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ARE..."
+		},
+		{
+			"speed": 0.105,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SO! FUCKING! DEAD!!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "spirit",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "START THE MUSIC SO I CAN RIP THIS MIDGET'S COCK WITH A FUCKING MEAT GRINDER!"
+		},
+		{
+			"speed": 0.17,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hold on tight Draco. We'll get him out of you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "vine boom",
+			"boxState": "normal",
+			"expression": "dsad",
+			"text": "*crys* why... :'("
+		}
+	]
+}

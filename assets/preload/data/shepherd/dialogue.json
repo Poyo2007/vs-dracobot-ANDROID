@@ -1,0 +1,276 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "olevadon",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "gu..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You alright?"
+		},
+		{
+			"speed": 0,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "blank",
+			"expression": "talk",
+			"text": "*Olevadon passes out on the spot from exhaustion*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Damn, he really tired himself out this time. This is normal for him though since he's pretty hyper."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I should bring him to his bed so he can rest before-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's going on?.. What was that noise?.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Draco? Is that you?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey Enki..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So you brought new people this time instead of Nacidio? Are you two doing alright?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, we're doing fine. I told him about what happened last week and that I'm ok."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hm?.."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A rap battle?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh yeah, that's where the music you were hearing was coming from."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmm... I don't know."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on! Just this one song!"
+		},
+		{
+			"speed": 0.095,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Fine."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I gotta help the other olevadons after this though..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh* I understand that you're taking care of the younger olevadons there. Can't wake em up or else they'll cry."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You should know that their crying is loud, Draco..."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OOOH! How are the babies like?!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Baby olevadons are the size of ping pong balls and they are so soft like cotton balls."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But their crying can be super loud. Imagine a high pitch THX starting theme playing at max volume."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "jeez..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They're usually asleep by this time which I forgot about. oof..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skebop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can we start already? I have to prepare food for them later on before my parents return."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, the volume should be lowered a bit now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't hold back Enki!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enkeiko",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The name's Enkeiko but alright."
+		}
+	]
+}

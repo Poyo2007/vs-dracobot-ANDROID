@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"expression": "",
+			"text": "You've gotten better since the last time we battled! I'm impressed.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "Beep ska bop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "",
+			"text": "That's Boyfriend for you!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.0299999999999998
+		},
+		{
+			"expression": "",
+			"text": "Hehehe... Yeah...",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.07
+		},
+		{
+			"expression": "",
+			"text": "Ske beep boo!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.02
+		},
+		{
+			"expression": "",
+			"text": "(Ugh... My chest is starting to hurt...)",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.015
+		},
+		{
+			"expression": "",
+			"text": "...Hey, you okay, Draco?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.045
+		},
+		{
+			"expression": "",
+			"text": "Yeah. I'm fine. I'm fine. Don't worry.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.055
+		},
+		{
+			"expression": "",
+			"text": "It's probably just those random pains you get from time to time.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.05
+		},
+		{
+			"expression": "",
+			"text": "It's just a bother, but I can ignore it.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.05
+		},
+		{
+			"expression": "",
+			"text": "And plus, I've suffered worse than this.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.06
+		},
+		{
+			"expression": "",
+			"text": "Beep...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.105
+		},
+		{
+			"expression": "",
+			"text": "Let's go for something a bit slower if that's alright.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.05
+		},
+		{
+			"expression": "",
+			"text": "Oh, okay.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.06
+		},
+		{
+			"expression": "",
+			"text": "Beep.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.07
+		},
+		{
+			"expression": "",
+			"text": "(I hope he's telling the truth.)",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.015
+		},
+		{
+			"expression": "",
+			"text": "(I don't want this to be another phase 3 cliche...)",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.01
+		},
+		{
+			"expression": "",
+			"text": "(or something like what had happened to Hex...)",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "",
+			"text": "(...)",
+			"boxState": "normal",
+			"speed": 0.165,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "(I may have to go to Isha after this to get this checked up...)",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "(This doesn't feel right at all...)",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "(How about I do this...)",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "([Open pain tolerance settings])",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "([Increase pain tolerance])",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "(Ugh... It still hurts like hell but it should be tolerable for the time being)",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "",
+			"text": "Alright, ready when you are..",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.06
+		}
+	]
+}

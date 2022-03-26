@@ -1,0 +1,26 @@
+{
+	"position": [
+		70,
+		190
+	],
+	"dialogue_pos": "left",
+	"scale": 1.12500,
+	"image": "olevadon",
+	"graphicsprites": [],
+	"animations": [
+		{
+			"idle_offsets": [
+				-3,
+				-6
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "GF0",
+			"loop_name": "GF LOOP"
+		}
+	],
+	"specialFlags": ["StaticPortrait"]
+}

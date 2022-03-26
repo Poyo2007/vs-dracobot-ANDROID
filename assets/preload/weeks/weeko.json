@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Blue Ball", "olevadon", [0, 192, 255]],
+		["Spherical", "olevadon", [0, 192, 255]],
+		["Shepherd", "enkeiko", [62, 116, 221]]
+	],
+
+	"weekCharacters": [
+		"olevadon",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "fields",
+
+	"storyName": "olevadon",
+	"weekBefore": "week7",
+	"weekName": "Week 8",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,308 @@
+{
+	"dialogue": [
+		{
+			"eventToDo": "blackout2",
+			"expression": "talk",
+			"text": "*Dracobot is seen flying BF and GF to the Chilly Fields were most olevadons are located.*",
+			"boxState": "blank",
+			"portrait": "olevadon",
+			"speed": 0
+		},
+		{
+			"eventToDo": "normal",
+			"expression": "talk",
+			"text": "*As well as the Shepherd and their family.*",
+			"boxState": "blank",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "beep...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.07
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "We're not too far from our destination guys.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.05
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "It was nice of you to fly us all the way there.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "Hey, consider it a thank you for saving my tail when spirit was controlling me.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.04
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "beep bap skebo?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.06
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.165
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "Well, if he were to stay there longer, I would of resorted to self destructing, terminating myself.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.04
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "Though of course I would toss you my diamond since my soul is in there.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.04
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "He was controlling the body not the diamond but damn it was surely a fight in there.",
+			"boxState": "normal",
+			"portrait": "dracobot",
+			"speed": 0.04
+		},
+		{
+			"eventToDo": "",
+			"expression": "talk",
+			"text": "So that was the reason behind you shuttering back there?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.04
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"speed": 0.085,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "You never told us about your past besides how you and BF met. Mind explaining that more?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "I don't really know much about my past besides when I was made.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Though, the only thing Dr. Isha told me is that my sister and I were human before we met our fate.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "She never told us who we were exactly or how we died.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "But she did say that the body tape and shoes are not related to who I was.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "(That's oddly specific of her to say that...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "bap...",
+			"boxState": "normal",
+			"speed": 0.14,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Anyways, we're here! Hope you got everything ready since we're about to land.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": "Hope you guys got the stereo ready.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "",
+			"text": ". . .",
+			"boxState": "blank",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"eventToDo": "kill",
+			"text": "This is the Chilly Fields! Home to where olevadons mostly live. The olevadon shepherd and his family lives here as well.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dracobot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "olevadon",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gu!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And that's an Olevadon. Actually, that's my Olevadon! How's my little guy doing! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "olevadon",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gugu!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OMG He's so cute!!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "be bop ske! bep boop skebap bo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, they come in different colors but Blue is the most common they come in since the cold weather."
+		},
+		{
+			"speed": 0.015,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ba-"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not a perfect time to make a blue balls joke, broski."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, that olevadon of mine heard about the rap battle we did and he wants to have a rap battle with ya too!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ske bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "olevadon",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gu Gugugu!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's the spirit you too! I'll be here sitting on this rock while you battle."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And be careful, he's super excited and he might be all over the place... hehehe..."
+		}
+	]
+}

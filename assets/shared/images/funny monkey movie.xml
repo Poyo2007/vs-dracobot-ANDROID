@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funny monkey movie.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lodding thing instance 10000" x="0" y="0" width="163" height="117"/>
+	<SubTexture name="lodding thing instance 10001" x="0" y="0" width="163" height="117"/>
+	<SubTexture name="lodding thing instance 10002" x="0" y="117" width="163" height="117"/>
+	<SubTexture name="lodding thing instance 10003" x="0" y="117" width="163" height="117"/>
+</TextureAtlas>

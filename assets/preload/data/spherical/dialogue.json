@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Right on!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great job! both of you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop!"
+		},
+		{
+			"speed": 0.13,
+			"portrait": "olevadon",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gug... Gug..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The little guy's getting tired huh..."
+		},
+		{
+			"speed": 0.085,
+			"portrait": "olevadon",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gugug... Gugugugu."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think we should let him breathe for a bit."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So GF, I was wondering if you need any help with anything later on."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not really. Things have been oddly mellow lately."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah alright. At least it gives you more time to spend with your boyfriend, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haha! Yeah!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bo bap be bop?.."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on babe, don't be like that."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, it's nothing like that, broski! And plus, I'm already in a committed relationship with someone else."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop!.. Beep bap skebab bo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah man, you're good. No need to apologize..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I didn't know you're dating someone. So who's the lucky someone?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh I don't know if I should say who."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bo, bap bo bep"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, tell us!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright! His name is Nacidio and let's just say that I too am dating a demon."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You and BF really have a thing for demons, huh?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yup! Though I have a thing for monsters and such in general, so..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Also, if it wasn't for Nacidio, I'd be simping over a bunch of guys, mostly those big monster like guys."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Speaking of, Nacidio is a big guy himself in more ways than one if you know what I mean, hehehe~"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seems like him and BF share a lot in common when it comes to that, haha!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "olevadon",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Gugugu!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"eventToDo": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Bep Bo!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Sorry!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry about that. I kinda went too far there, hehehe..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dracobot",
+			"eventToDo": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, Olevadon seems ready now so let's start the next song!"
+		}
+	]
+}

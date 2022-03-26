@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				433
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nacidio Idle"
+		},
+		{
+			"offsets": [
+				125,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"camera_pos": [
+				-70,
+				-370
+			],
+			"indices": [],
+			"name": "nacidio left"
+		},
+		{
+			"offsets": [
+				136,
+				425
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"camera_pos": [
+				-50,
+				-360
+			],
+			"indices": [],
+			"name": "nacidio down"
+		},
+		{
+			"offsets": [
+				149,
+				419
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"camera_pos": [
+				-50,
+				-380
+			],
+			"indices": [],
+			"name": "nacidio up"
+		},
+		{
+			"offsets": [
+				200,
+				435
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"camera_pos": [
+				-50,
+				-370
+			],
+			"indices": [],
+			"name": "nacidio right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nacidio",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "icon-nacidio",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		31,
+		26
+	],
+	"camera_position": [
+		-60,
+		-370
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nacidio.png">
+<SubTexture name="nacidio Idle0000" x="0" y="1143" width="561" height="1050" frameX="-349" frameY="-82" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio Idle0001" x="0" y="1143" width="561" height="1050" frameX="-349" frameY="-82" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio Idle0002" x="1923" y="0" width="559" height="1053" frameX="-342" frameY="-79" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio Idle0003" x="1711" y="1143" width="585" height="1018" frameX="-352" frameY="-113" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio Idle0004" x="1129" y="1143" width="582" height="1030" frameX="-357" frameY="-101" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio Idle0005" x="561" y="1143" width="568" height="1043" frameX="-356" frameY="-88" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio right0000" x="2482" y="0" width="899" height="975" frameX="-301" frameY="-181" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio right0001" x="2482" y="975" width="856" height="971" frameX="-329" frameY="-184" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio right0002" x="0" y="2193" width="850" height="971" frameX="-332" frameY="-186" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio up0000" x="0" y="0" width="628" height="1143" frameX="-167" frameY="0" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio up0001" x="628" y="0" width="638" height="1127" frameX="-157" frameY="-16" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio up0002" x="1266" y="0" width="657" height="1103" frameX="-138" frameY="-40" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio left0000" x="3381" y="0" width="995" height="964" frameX="0" frameY="-179" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio left0001" x="850" y="2193" width="964" height="971" frameX="-26" frameY="-170" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio left0002" x="1814" y="2193" width="954" height="968" frameX="-36" frameY="-171" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio down0000" x="0" y="3164" width="716" height="852" frameX="-219" frameY="-297" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio down0001" x="3381" y="1836" width="713" height="862" frameX="-221" frameY="-287" frameWidth="1200" frameHeight="1157" />
+<SubTexture name="nacidio down0002" x="3381" y="964" width="689" height="872" frameX="-246" frameY="-280" frameWidth="1200" frameHeight="1157" />
+</TextureAtlas>

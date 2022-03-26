@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loading circle.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="circle lol0000" x="0" y="0" width="170" height="168"/>
+	<SubTexture name="circle lol0001" x="170" y="0" width="170" height="168"/>
+	<SubTexture name="circle lol0002" x="340" y="0" width="170" height="168"/>
+	<SubTexture name="circle lol0003" x="0" y="168" width="170" height="168"/>
+	<SubTexture name="circle lol0004" x="170" y="168" width="170" height="168"/>
+	<SubTexture name="circle lol0005" x="340" y="168" width="170" height="168"/>
+	<SubTexture name="circle lol0006" x="0" y="336" width="170" height="168"/>
+</TextureAtlas>

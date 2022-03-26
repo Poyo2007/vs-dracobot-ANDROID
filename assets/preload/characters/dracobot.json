@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				125,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"camera_pos": [
+				-185,
+				-90
+			],
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				66,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"camera_pos": [
+				-160,
+				-60
+			],
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-76,
+				305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"camera_pos": [
+				-160,
+				-110
+			],
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-20,
+				205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"camera_pos": [
+				-125,
+				-90
+			],
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dracobot",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "icon-dracobot",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		245,
+		73
+	],
+	"camera_position": [
+		-160,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

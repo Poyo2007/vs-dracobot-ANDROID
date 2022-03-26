@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Draco.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="745" height="892" frameX="0" frameY="-8" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="745" height="892" frameX="0" frameY="-8" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0002" x="745" y="0" width="735" height="897" frameX="-1" frameY="-3" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0003" x="0" y="897" width="729" height="898" frameX="-2" frameY="-3" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0004" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0005" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0006" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0007" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0008" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0009" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0010" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0011" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0012" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0013" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+	<SubTexture name="Idle0014" x="729" y="897" width="724" height="901" frameX="-4" frameY="0" frameWidth="745" frameHeight="901"/>
+</TextureAtlas>

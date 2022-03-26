@@ -1,0 +1,25 @@
+{
+	"position": [
+		20,
+		100
+	],
+	"dialogue_pos": "center",
+	"scale": 1.5,
+	"image": "giff",
+	"animations": [
+		{
+			"idle_offsets": [
+				-3,
+				-6
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "GF0",
+			"loop_name": "GF LOOP"
+		}
+	],
+	"specialFlags": ["StaticPortrait"]
+}
