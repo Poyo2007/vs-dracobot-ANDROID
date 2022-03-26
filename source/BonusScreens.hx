@@ -141,7 +141,7 @@ class UnlockScreen extends FlxState
 		SpritesToMove.x = FlxG.width;
 		FlxTween.tween(SpritesToMove, {x: FlxG.width * 0.0808823529}, 0.166666667);
 		var achievementThing = messagesToDisplay.pop();
-		DiscordClient.changePresence(achievementStatus[achievementThing], null);
+		#if desktop DiscordClient.changePresence(achievementStatus[achievementThing], null);#end
 		ChocolateDescription.text = achievementData[achievementThing];
 		ChocolateDescription.y = (BoxSprite.y + 45) - (ChocolateDescription.height * 0.25) * (achievementData[achievementThing].split('\n')).length;
     }
