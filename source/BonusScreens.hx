@@ -1,6 +1,8 @@
 package;
 
+#if desktop
 import Discord.DiscordClient;
+#end
 import flixel.text.FlxText;
 import flixel.FlxG;
 import flixel.FlxState;
@@ -173,7 +175,7 @@ class WarnyScreeny extends FlxState
 		WarningStrip = new FlxTiledSprite(Paths.image('warning', 'shared'), FlxG.width, FlxG.height, true, false);
         WarningStrip.antialiasing = true;
 		var WarningStripOverlay:FlxSprite = new FlxSprite(0, 0).makeGraphic(FlxG.width, FlxG.height, 0xBF000000);
-		var TextWarning:FlxText = new FlxText(FlxG.width * 0.025, FlxG.height * 0.20, 0, "WARNING\n\nThis mod contains flashing lights and rapidly moving arrows\nfor the third song of the first week.\nYou cannot turn them off so please play\nor watch at your own risk.\n\n To disable this warning, Press F. \n\n\n TAP THE SCREEN TO CONTINUE", 32);
+		var TextWarning:FlxText = new FlxText(FlxG.width * 0.025, FlxG.height * 0.20, 0, "WARNING\n\nThis mod contains flashing lights and rapidly moving arrows\nfor the third song of the first week.\nYou cannot turn them off so please play\nor watch at your own risk.\n\n\n TAP THE SCREEN TO CONTINUE", 32);
         TextWarning.alignment = CENTER;
         add(WarningStrip);
         add(WarningStripOverlay);
@@ -183,19 +185,24 @@ class WarnyScreeny extends FlxState
     override public function update(elapsed:Float)
     {
         WarningStrip.scrollX += 0.9;
+        
   
+    #if mobile
+		for (touch in FlxG.touches.list)
+		{
 		if(touch.justPressed)
 		{
 			FuckShit.loadEmbedded(Paths.sound('cancelMenu'));
             FuckShit.play();
             FlxG.switchState(new TitleState());
-        }
-        if(FlxG.keys.justPressed.F)
-        {
-			FuckShit.loadEmbedded(Paths.sound('confirmMenu'));
-			FlxG.save.data.warningScreen = false;
-			FuckShit.play();
-			FlxG.switchState(new TitleState());
-        }
+    }
+		}
+		#else
+		if(FlxG.keys.justPressed.ENTER)
+		{
+			FuckShit.loadEmbedded(Paths.sound('cancelMenu'));
+            FuckShit.play();
+            FlxG.switchState(new TitleState());
+    }
     }
 }
