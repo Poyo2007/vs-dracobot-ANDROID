@@ -98,7 +98,11 @@ class OptionsState extends MusicBeatState
 					openSubState(new NotesSubstate());
 
 				case 'Controls':
+				  #if mobile
+				  openSubState(new android/AndroidControlsMenu());
+				  #else
 					openSubState(new ControlsSubstate());
+					#end
 
 				case 'Preferences':
 					openSubState(new PreferencesSubstate());
