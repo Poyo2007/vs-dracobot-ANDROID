@@ -471,6 +471,7 @@ class Controls extends FlxActionSet
                                 //nothing
 			case NONE:
 		}
+	}
 
 	override function update()
 	{
