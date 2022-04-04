@@ -90,7 +90,7 @@ class WeekData {
 			}
 		}
 		#else
-		var directories:Array<String> = [Paths.getPreloadPath()];
+		var directories:Array<String> = [SUtil.getPath() + Paths.getPreloadPath()];
 		var originalLength:Int = directories.length;
 		#end
 
